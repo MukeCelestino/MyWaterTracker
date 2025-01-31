@@ -1,8 +1,8 @@
-# Android Project 5 - *My Water Tracker*
+# Android Project - *My Water Tracker*
 
 Submitted by: **Muketoi Celestino**
 
-**My Water Tracker** is a health metrics app that allows users to track your water intake during the day 
+**My Water Tracker** is a health metrics app that allows users to track their water intake during the day 
 
 Time spent: **5** hours spent in total
 
@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022, Muketoi Celestino
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
